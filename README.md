@@ -56,15 +56,14 @@ The app also supports **Dark and Light themes** for comfortable usage.
 git clone https://github.com/jamaljmeel/notes.git
 Navigate to the project folder
 
-نسخ الكود
+
 cd notes
 Install dependencies
 
-نسخ الكود
+
 flutter pub get
 Run the application
 
-نسخ الكود
 flutter run
 📂 Project Structure
 
