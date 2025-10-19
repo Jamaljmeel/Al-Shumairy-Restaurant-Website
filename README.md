@@ -49,10 +49,12 @@ The app also supports **Dark and Light themes** for comfortable usage.
 - Android Studio / VS Code  
 - Android emulator or physical device
 
-### Installation
+## 🚀 Installation
+
 1. **Clone the repository**
+```bash
 git clone https://github.com/jamaljmeel/notes.git
-Navigate to project folder
+Navigate to the project folder
 
 نسخ الكود
 cd notes
@@ -60,18 +62,17 @@ Install dependencies
 
 نسخ الكود
 flutter pub get
-Run the app
+Run the application
 
 نسخ الكود
 flutter run
 📂 Project Structure
-graphql
-نسخ الكود
+
 lib/
-├── data/        # Note data models & Theme
+├── data/          # Note data models & Theme
 ├── screens/       # App screens 
-├── components/       # Reusable UI components
-├── services/            # SQLite database helper classes & sharedPref
+├── components/    # Reusable UI components
+├── services/      # SQLite database helper classes & sharedPref
 └── main.dart      # App entry point
 assets/
 └── screenshots/   # Screenshots for README
@@ -84,23 +85,22 @@ Languages: Dart
 
 State Management: Provider / setState
 
-
 🤝 Contributing
 Contributions are welcome!
 
 Fork the repository
 
-Create a feature branch:
+Create a feature branch
 
-نسخ الكود
+
 git checkout -b feature/AmazingFeature
-Commit your changes:
+Commit your changes
 
-نسخ الكود
+
 git commit -m "Add some AmazingFeature"
-Push to the branch:
+Push to the branch
 
-نسخ الكود
+
 git push origin feature/AmazingFeature
 Open a Pull Request
 
@@ -114,5 +114,3 @@ or contact via email:
 📧 jmal774583030@gmail.com
 
 Notes App — Organize your notes efficiently and stay productive 📝
-
-نسخ الكود
