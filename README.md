@@ -75,8 +75,6 @@ lib/
 └── main.dart      # App entry point
 assets/
 └── screenshots/   # Screenshots for README
-fonts/
-└── ZillaSlab
 🧠 Technologies Used
 Frontend: Flutter
 
