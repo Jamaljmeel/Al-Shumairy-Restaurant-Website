@@ -37,7 +37,7 @@ The app also supports **Dark and Light themes** for comfortable usage.
 ![Setting Notes](assets/screenshots/setting.png)
 
 ### Dark Mode
-![Edit_Dark Mode](assets/screenshots/dark_mode.png)
+![Edit_Dark Mode](assets/screenshots/edit.png)
 
 ---
 
@@ -75,6 +75,8 @@ lib/
 └── main.dart      # App entry point
 assets/
 └── screenshots/   # Screenshots for README
+fonts/
+└── ZillaSlab
 🧠 Technologies Used
 Frontend: Flutter
 
